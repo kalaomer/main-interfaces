@@ -12,4 +12,6 @@ interface SimpleManager {
 	Public function killEvent( $eventName );
 
 	Public function triggerEvent( $eventName, array $args = array() );
+
+	Public function isEvent( $eventName );
 }
