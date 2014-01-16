@@ -4,7 +4,7 @@
  */
 namespace Interfaces;
 
-interface Executeable {
+interface Executable {
 	
 	Public function exec( \Closure $funcTemplate, array $args = array() );
 
