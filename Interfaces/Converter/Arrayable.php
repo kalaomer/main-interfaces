@@ -3,7 +3,7 @@
  * Arrayable Interface.
  */
 
-namespace Interface\Converter;
+namespace Interfaces\Converter;
 
 interface Arrayable {
 
