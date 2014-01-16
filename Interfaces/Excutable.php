@@ -2,6 +2,7 @@
 /**
  * Executable interface.
  */
+namespace Interfaces;
 
 interface Executeable {
 	

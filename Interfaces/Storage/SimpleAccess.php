@@ -3,7 +3,9 @@
  * Simple Data Access Interface.
  */
 
-interface SimpleDataAccess {
+namespace Interfaces\Storage;
+
+interface SimpleAccess {
 
 	/**
 	 * Get data.

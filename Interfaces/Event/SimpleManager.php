@@ -3,7 +3,9 @@
  * Simple Event Manager Interface.
  */
 
-interface SimpleEventManager {
+namespace Interfaces\Event;
+
+interface SimpleManager {
 
 	Public function createEvent( $eventName, \Closure $function, array $args = array() );
 
