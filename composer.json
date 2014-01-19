@@ -1,0 +1,13 @@
+{
+    "name": "kalaomer/main_interfaces",
+    "description": "Main Interfaces for PHP",
+    "authors": [
+        {
+            "name": "Omer Kala",
+            "email": "kalaomer@hotmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
